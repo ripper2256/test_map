@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"test_map.json"
+                 "value":"new_map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
