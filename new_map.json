@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":16,
  "infinite":false,
  "layers":[
@@ -35,7 +42,7 @@
         {
          "draworder":"topdown",
          "id":3,
-         "name":"Objektebene 1",
+         "name":"floorLayer",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
