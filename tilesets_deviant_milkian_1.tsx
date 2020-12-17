@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.4" tiledversion="1.4.3" name="tilesets_deviant_milkian_1" tilewidth="32" tileheight="32" tilecount="256" columns="16">
- <image source="../../../Users/gassa/Documents/tilesets_deviant_milkian_1.png" width="512" height="512"/>
+ <image source="tilesets_deviant_milkian_1.png" width="512" height="512"/>
  <tile id="155">
   <properties>
    <property name="collide" type="bool" value="true"/>
